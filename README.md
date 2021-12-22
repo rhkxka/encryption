@@ -6,4 +6,4 @@
  - 현재 포함되어있는 프로그램
    - 해밍코드 구현
    - 암호화 구현
-    - ADFGVX, PlayFair, RSA, 배낭암호
+     - ADFGVX, PlayFair, RSA, 배낭암호
