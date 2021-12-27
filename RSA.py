@@ -4,7 +4,8 @@
 
 import random as r
 import math as m
-#소수판별 프로그램
+
+#소수 판별 함수
 def pme_ck(x):
     try:
         x = int(x)
@@ -12,10 +13,8 @@ def pme_ck(x):
         return -1
     if x < 2:
         return -1
-    if x == 2:
-        return x
     
-    for i in range(2, x):
+    for i in range(2, int(x**0.5)+1):
         if x%i == 0:
             return -1
     return x
