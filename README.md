@@ -1,3 +1,5 @@
+https://github.com/jungyun404/encoding
+
 ### README.md
 
  - RnE 결과 만들어진 해밍코드 구현 및 암호화 프로그램들
